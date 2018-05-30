@@ -2,7 +2,6 @@
 /node_modules
 Homestead.yaml
 Homestead.json
-.env
 .DS_Store
 
 /storage/administrator_settings
@@ -13,4 +12,3 @@ _ide_helper.php
 _ide_helper_models.php
 
 Envoy.blade.php
-
